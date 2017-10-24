@@ -2,7 +2,7 @@
 #Subject: Bachelor Thesis
 
 #1. Data Import & Global Variables
-data <- read.csv("R/DigitData2.csv") #import data
+data <- read.csv("R/DigitData.csv") #import data
 alpha = 0.1 #initialises model parameter (learning rate)
 bias = 0 #initialises a bias of 0
 weights = integer(25) #initialises up 25 weights 
