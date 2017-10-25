@@ -1,5 +1,5 @@
 # Bachelor Thesis
-Applying ML principles to predicting Financial Time Series (FTS).
+*Applying ML principles to predicting Financial Time Series (FTS).
 
 ## 1. Practice Exercises
 ### Exercises 1 & 2: AR, ARMA & ARIMA
@@ -15,7 +15,9 @@ This exercise investigates non-linear Multi Layer Perceptron (MLP) and Neural Ne
 These equations cover the bare fundamentals of all the models used.
 
 ## 3. Project Progress report
+(in progress)
 
 ## 4. Final Thesis
+(in progress)
 
 Thomas Hollis (2017)
