@@ -22,4 +22,3 @@ These equations cover the bare fundamentals of all the models used.
 
 
 
-Thomas Hollis (2017)
