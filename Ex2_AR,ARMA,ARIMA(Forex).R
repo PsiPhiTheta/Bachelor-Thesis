@@ -1,3 +1,5 @@
+#Author: Thomas Hollis
+
 data <- read.csv("R/EUR-GBP400h.csv")
 
 data_train <- data[1:251,2]
