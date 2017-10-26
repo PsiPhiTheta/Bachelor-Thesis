@@ -1,3 +1,5 @@
+#Author: Thomas Hollis
+
 MNistdata <- read.csv("MNIST_train.csv")
 
 MNistTrain <- MNistdata[1:2000, ]
