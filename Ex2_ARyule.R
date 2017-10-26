@@ -1,3 +1,5 @@
+#Author: Thomas Hollis
+
 data <- read.csv("R/BTC400h.csv")
 
 data_train <- data[1:282,2]
