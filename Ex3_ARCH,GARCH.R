@@ -1,3 +1,5 @@
+#Author: Thomas Hollis
+
 library(fGarch)
 
 data <- read.csv("R/EUR-GBP400h.csv")
