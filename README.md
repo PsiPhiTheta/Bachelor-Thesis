@@ -1,5 +1,5 @@
 # Bachelor Thesis
-Applying ML principles to predicting Financial Time Series (FTS).
+Deep Learning Algorithms Applied to Blockchain-Based Financial Times Series (FTS).
 
 ## 1. Practice Exercises
 ### Exercises 1 & 2: AR, ARMA & ARIMA
