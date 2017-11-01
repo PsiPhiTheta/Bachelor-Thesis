@@ -36,3 +36,4 @@ btc_pred <- predict(object = btc_ar, n.ahead = 94)
 lines(x = xvals, btc_pred$pred, ylim=range(data[,2]), xlim=range(1,376), xlab = "", ylab = "", type = "l", col = "orange")
 
 legend("topleft", legend=c("BTC Data", "AR Train", "AR Predict (1st Order)", "AR Predict (2nd Order)", "AR Predict (5th Order)", "AR Predict (50th Order)", "AR Predict (250th Order)"), col=c("black", "red", "pink", "brown", "green", "blue", "orange"), bty = "n", cex = 0.9, pch = 16, text.col = "black")
+
