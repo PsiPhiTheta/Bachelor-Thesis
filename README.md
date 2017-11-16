@@ -14,6 +14,9 @@ This exercise investigates non-linear Multi Layer Perceptron (MLP) & basic Neura
 ### Exercise 5: NNetAR 
 This exercise investigates Single Hidden Layer Neural Networks (NNetAR algorithm) and their performance for modelling FTS.
 
+### Exercise 6: SOM
+This exercise investigates Self Organising Maps (SOM) and their performance in unsupervised learning.
+
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used.
 
