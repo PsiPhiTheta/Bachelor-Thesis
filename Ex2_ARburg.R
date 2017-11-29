@@ -1,6 +1,6 @@
 #Author: Thomas Hollis
 #Subject: Bachelor Thesis
-
+ 
 #1. Data Import
 data <- read.csv("R/BTC.csv")
 
