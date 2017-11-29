@@ -1,4 +1,5 @@
 #Author: Thomas Hollis
+#Subject: Bachelor Thesis
 
 MNistdata <- read.csv("MNIST_train.csv")
 
