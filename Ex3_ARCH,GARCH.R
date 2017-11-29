@@ -1,4 +1,5 @@
 #Author: Thomas Hollis
+#Subject: Bachelor Thesis
 
 library(fGarch)
 
