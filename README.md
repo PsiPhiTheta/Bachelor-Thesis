@@ -20,6 +20,9 @@ This exercise investigates Self Organising Maps (SOM) and their performance in u
 ### Exercise 7: Forex vs. BTC 
 This exercise investigates applying the AR, ARMA, ARIMA, ARCH, GARCH, SLP, MLP, NN, NNetAR & SOM models to both predicting Forex & BTC FTS (binary only).
 
+### Exercise 8: Forex vs. BTC 
+This exercise investigates applying the NARMAX model to both predicting Forex & BTC FTS (trend & binary).
+
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used.
 
