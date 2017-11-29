@@ -63,7 +63,7 @@ for(i in 2:200)
   }
 }
 
-for(i in 2:191)
+for(i in 2:124)
 {
   testData <- data_test[i:(i+9)]
   
