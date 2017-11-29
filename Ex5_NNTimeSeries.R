@@ -1,6 +1,6 @@
 #Author: Thomas Hollis
 #Subject: Bachelor Thesis
-
+ 
 library(caret)
 library(lattice)
 library(forecast)
