@@ -1,4 +1,5 @@
 #Author: Thomas Hollis
+#Subject: Bachelor Thesis
 
 #1. Data Import & Global Variables
 data <- read.csv("R/DigitData.csv") #import data
