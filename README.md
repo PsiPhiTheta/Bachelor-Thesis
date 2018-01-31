@@ -29,6 +29,12 @@ This exercise investigates applying the Nonlinear Auto Regressive Moving Average
 ### Exercise 9: SOM (BTC/Forex)
 This exercise investigates Self Organising Maps (SOM) and their performance in unsupervised learning applied to Forex & BTC FTS.
 
+### Exercise 10: ESN (BTC/Forex)
+This exercise investigates Echo State Networks (ESN) and their performance in unsupervised learning applied to Forex & BTC FTS.
+
+### Exercise 11: Granger Causality (cryptocurrencies)
+This exercise investigates Granger Causality in cryptocurrencies.
+
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used.
 
