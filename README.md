@@ -35,7 +35,7 @@ This exercise investigates Echo State Networks (ESN) and their performance in un
 ### Exercise 11: LF Granger Causality (cryptocurrencies)
 This exercise investigates Low Frequency Granger Causality in cryptocurrencies.
 
-### Exercise 11: HF Granger Causality (cryptocurrencies)
+### Exercise 12: HF Granger Causality (cryptocurrencies)
 This exercise investigates High Frequency Granger Causality in cryptocurrencies.
 
 ## 2. Mathematical Fundamentals 
