@@ -3,7 +3,7 @@
 
 #1. Package & Data Import
 library(tsDyn)
-data <- read.csv("R/EUR-GBP400h.csv")
+data <- read.csv("R/EUR-GBP400 (40h 44m)h.csv")
 
 #2. Data Split
 
