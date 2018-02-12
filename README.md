@@ -34,10 +34,10 @@ This exercise investigates Self Organising Maps (SOM) and their performance in u
 ### Exercise 10: ESN (BTC/Forex)
 This exercise investigates Echo State Networks (ESN) and their performance in unsupervised learning applied to Forex & BTC FTS.
 
-### Exercise 11: LF Granger Causality (cryptocurrencies)
+### Exercise 11: LF Granger Causality (Cryptocurrencies)
 This exercise investigates Low Frequency Granger Causality in cryptocurrencies.
 
-### Exercise 12: HF Granger Causality (cryptocurrencies)
+### Exercise 12: HF Granger Causality (Cryptocurrencies)
 This exercise investigates High Frequency Granger Causality in cryptocurrencies.
 
 ## 2. Mathematical Fundamentals 
