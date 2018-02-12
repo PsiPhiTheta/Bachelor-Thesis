@@ -2,7 +2,7 @@
 #Subject: Bachelor Thesis
 
 #1. Data Import & Global Variables
-data <- read.csv("R/EUR-GBP400h.csv") #import data
+data <- read.csv("R/EUR-GBP400 (40h 44m)h.csv") #import data
 
 #2. Data post-processing
 data_train <- data[1:134,2] #split data to training set
