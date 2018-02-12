@@ -2,6 +2,8 @@
 Deep Learning Algorithms Applied to Blockchain-Based Financial Times Series (FTS).
 
 ## 1. Practice Exercises
+All R scripts can be found in the `src` directory. 
+
 ### Exercise 1: AR Yule-Walker, AR Burg
 This exercise investigates linear AR Yule-Walker and AR Burg models applied to FTS prediction.
 
