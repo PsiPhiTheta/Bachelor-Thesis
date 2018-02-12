@@ -1,8 +1,8 @@
 # Bachelor Thesis
 Deep Learning Algorithms Applied to Blockchain-Based Financial Times Series (FTS).
 
-## 1. Practice Exercises
-All R scripts can be found in the `src` directory. 
+## 1. Exercises 
+The main project was approached via multiple sub-tasks or exercises, before building up the final model. All R scripts corresponding to each sub-task can be found in the `src` directory. 
 
 ### Exercise 1: AR Yule-Walker, AR Burg
 This exercise investigates linear AR Yule-Walker and AR Burg models applied to FTS prediction.
