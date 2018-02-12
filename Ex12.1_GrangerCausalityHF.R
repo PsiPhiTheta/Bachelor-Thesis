@@ -1,3 +1,6 @@
+#Author: Thomas Hollis
+#Subject: Bachelor Thesis
+
 library(lmtest)
 library(vars)
 
