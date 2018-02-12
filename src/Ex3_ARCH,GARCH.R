@@ -3,7 +3,7 @@
 
 library(fGarch)
 
-data <- read.csv("R/EUR-GBP400h.csv")
+data <- read.csv("R/EUR-GBP400 (40h 44m)h.csv")
 
 data_train <- data[1:251,2]
 data_test <- data[252:335,2]
