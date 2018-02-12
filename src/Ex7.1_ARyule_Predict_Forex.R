@@ -2,7 +2,7 @@
 #Subject: Bachelor Thesis
 
 #1. Data Import
-data <- read.csv("R/EUR-GBP400h.csv")
+data <- read.csv("R/EUR-GBP400 (40h 44m)h.csv")
 
 #2. Data Split
 data_train <- data[1:100,2]
