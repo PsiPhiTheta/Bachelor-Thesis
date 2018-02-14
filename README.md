@@ -40,6 +40,9 @@ This exercise investigates Low Frequency Granger Causality in cryptocurrencies.
 ### Exercise 12: HF Granger Causality (Cryptocurrencies)
 This exercise investigates High Frequency Granger Causality in cryptocurrencies.
 
+### Exercise 13: HF NN (BTC)
+This exercise investigates High Frequency NN for forecasting BTC open prices with OCLH data.
+
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used.
 
