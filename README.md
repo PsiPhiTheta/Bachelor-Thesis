@@ -50,7 +50,7 @@ This exercise investigates a slightly improved High Frequency NN for forecasting
 This exercise investigates briefly fully Bayesian estimations of stochastic volatility via Markov chain Monte Carlo methods in the BTC-USD pair compared to other typical Forex currencies. For context only.
 
 ## 2. Mathematical Fundamentals 
-These equations cover the bare fundamentals of all the models used.
+These equations cover the bare fundamentals of all the models used. This can also be found in the `doc` directory. 
 
 ## 3. Project Progress report
 (Complete - will be open sourced in June 2018)
