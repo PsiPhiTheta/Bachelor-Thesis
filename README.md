@@ -2,7 +2,7 @@
 Deep Learning Algorithms Applied to Blockchain-Based Financial Times Series (FTS).
 
 ## 1. Exercises 
-The main project was approached via multiple sub-tasks or exercises, before building up the final model. All R scripts corresponding to each sub-task can be found in the `src` directory. 
+The main project was approached via multiple sub-tasks or exercises, before building up the final model. All R scripts corresponding to each sub-task can be found in the `src` directory. A short PDF document accompanies each exercise to present a summary of results, all of which can be found in the `doc` directory.  
 
 ### Exercise 1: AR Yule-Walker, AR Burg
 This exercise investigates linear AR Yule-Walker and AR Burg models applied to FTS prediction.
@@ -41,16 +41,19 @@ This exercise investigates Low Frequency Granger Causality in cryptocurrencies.
 This exercise investigates High Frequency Granger Causality in cryptocurrencies.
 
 ### Exercise 13: HF NN (BTC)
-This exercise investigates High Frequency NN for forecasting BTC open prices with OCLH data.
+This exercise investigates a preliminary High Frequency NN for forecasting BTC close price with OCLH data.
+
+### Exercise 14: HF NN (DASH)
+This exercise investigates a slightly improved High Frequency NN for forecasting DASH close price with delayed time series and exogenous BTC delayed inputs.
+
+### Exercise 15: Volatility (BTC/Forex)
+This exercise investigates briefly fully Bayesian estimations of stochastic volatility via Markov chain Monte Carlo methods in the BTC-USD pair compared to other typical Forex currencies. For context only.
 
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used.
 
 ## 3. Project Progress report
-(in progress)
+(Complete - will be open sourced in June 2018)
 
 ## 4. Final Thesis
-(in progress)
-
-
-
+(In progress)
