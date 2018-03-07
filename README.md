@@ -62,7 +62,7 @@ This exercise investigates Hourly Granger Causality in cryptocurrencies.
 These equations cover the bare fundamentals of all the models used. This can also be found in the `doc` directory. 
 
 ## 3. Project Progress report
-(Complete - will be open sourced in June 2018)
+(Complete, graded 80.2% - will be open sourced in June 2018)
 
 ## 4. Final Thesis
 (In progress)
