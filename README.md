@@ -50,7 +50,13 @@ This exercise investigates a slightly improved High Frequency NN for forecasting
 This exercise investigates briefly fully Bayesian estimations of stochastic volatility via Markov chain Monte Carlo methods in the BTC-USD pair compared to other typical Forex currencies. For context only.
 
 ### Exercise 16: Further NN Investigations (Cryptocurrencies)
-This exercises looks at the impact of going from HF minute-data to MF-hour data as well as other simple NN architectures.  
+This exercises looks at the impact of going from HF minute-data to MF-hour data as well as other simple NN architectures. 
+
+### Exercise 17: Deep NN Investigations (Cryptocurrencies)
+This exercises looks at Deep NN architectures using Keras, TensorFlow & CUDA. 
+
+### Exercise 18: Hour Granger Causality (Cryptocurrencies)
+This exercise investigates Hourly Granger Causality in cryptocurrencies.
 
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used. This can also be found in the `doc` directory. 
