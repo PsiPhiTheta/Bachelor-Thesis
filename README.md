@@ -58,6 +58,12 @@ This exercises looks at Deep NN architectures using Keras, TensorFlow & CUDA.
 ### Exercise 18: Hour Granger Causality (Cryptocurrencies)
 This exercise investigates Hourly Granger Causality in cryptocurrencies.
 
+### Exercise 19: Further DNN Investigations (Cryptocurrencies)
+This exercises looks at further DNN architectures (up to 20x20 with 2 hidden layers) using Keras, TensorFlow & CUDA. 
+
+### Exercise 20: Live Algorithmic Trading (Cryptocurrencies)
+This proof of concept exercise uses the most performant algorithm developped thus far to trade live on the Poloniex exchange. 
+
 ## 2. Mathematical Fundamentals 
 These equations cover the bare fundamentals of all the models used. This can also be found in the `doc` directory. 
 
