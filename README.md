@@ -1,5 +1,5 @@
 # Bachelor Thesis
-Deep Learning Algorithms Applied to Blockchain-Based Financial Times Series (FTS).
+Deep Learning Algorithms Applied to Blockchain-Based Financial Time Series (FTS).
 
 ## 1. Exercises 
 The main project was approached via multiple sub-tasks or exercises, before building up the final model. All R scripts corresponding to each sub-task can be found in the `src` directory, with corresponding datasets in the `datasets` directory. A short PDF document accompanies each exercise to present a summary of results, all of which can be found in the `doc` directory.  
