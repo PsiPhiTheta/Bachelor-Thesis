@@ -68,7 +68,7 @@ This proof of concept exercise uses the most performant algorithm developped thu
 These equations cover the bare fundamentals of all the models used. This can also be found in the `doc` directory. 
 
 ## 3. Project Progress report
-(Complete, graded 80.50% - will be open sourced in June 2018)
+(Complete, graded 80.50%)
 
-## 4. Final Thesis
-(In progress)
+## 4. Final Bachelor Thesis
+(Complete, graded 92.00% overall)
